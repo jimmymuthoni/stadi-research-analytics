@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/stadi-analytics",
-  assetPrefix: "/stadi-analytics/",
+  basePath: "/stadi-research-analytics",
+  assetPrefix: "/stadi-research-analytics/",
 };
 
 module.exports = nextConfig;
