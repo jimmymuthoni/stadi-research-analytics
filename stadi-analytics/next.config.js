@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export", 
+  output: "export",
   images: {
     unoptimized: true,
   },
-   basePath: "/stadi-research", 
-  assetPrefix: "/stadi-research/"
+  basePath: "/stadi-analytics",
+  assetPrefix: "/stadi-analytics/",
 };
 
 module.exports = nextConfig;
